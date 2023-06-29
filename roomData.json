@@ -1,0 +1,384 @@
+[
+  {
+    "roomNumber": "1",
+    "roomType": "STUDIO",
+    "roomPrice": 52875,
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "2",
+    "roomType": "STUDIO",
+    "roomPrice": 52875,
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "3",
+    "roomType": "STUDIO",
+    "roomPrice": 52875,
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "4",
+    "roomType": "STUDIO",
+    "roomPrice": 52875,
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "5",
+    "roomType": "STUDIO",
+    "roomPrice": 52875,
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "6",
+    "roomPrice": 52875,
+    "roomType": "STUDIO",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "7",
+    "roomPrice": 52875,
+    "roomType": "STUDIO",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "8",
+    "roomPrice": 52875,
+    "roomType": "STUDIO",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "9",
+    "roomPrice": 52875,
+    "roomType": "STUDIO",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "10",
+    "roomPrice": 52875,
+    "roomType": "STUDIO",
+    "reservationIds": []
+  },
+
+
+
+  {
+    "roomNumber": "11",
+    "roomPrice": 59925,
+    "roomType": "STANDARD",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "12",
+    "roomPrice": 59925,
+    "roomType": "STANDARD",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "13",
+    "roomPrice": 59925,
+    "roomType": "STANDARD",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "14",
+    "roomPrice": 59925,
+    "roomType": "STANDARD",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "15",
+    "roomPrice": 59925,
+    "roomType": "STANDARD",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "16",
+    "roomPrice": 59925,
+    "roomType": "STANDARD",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "17",
+    "roomPrice": 59925,
+    "roomType": "STANDARD",
+    "reservationIds": []
+  },
+
+
+  {
+  "roomNumber": "18",
+  "roomPrice": 74025,
+  "roomType": "DELUXE",
+  "reservationIds": []
+},
+  {
+    "roomNumber": "19",
+    "roomPrice": 74025,
+    "roomType": "DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "20",
+    "roomPrice": 74025,
+    "roomType": "DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "21",
+    "roomPrice": 74025,
+    "roomType": "DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "22",
+    "roomPrice": 74025,
+    "roomType": "DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "23",
+    "roomPrice": 74025,
+    "roomType": "DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "24",
+    "roomPrice": 74025,
+    "roomType": "DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "25",
+    "roomPrice": 74025,
+    "roomType": "DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "26",
+    "roomPrice": 74025,
+    "roomType": "DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "27",
+    "roomPrice": 74025,
+    "roomType": "DELUXE",
+    "reservationIds": []
+  },
+
+
+
+
+  {
+    "roomNumber": "28",
+    "roomPrice": 76375,
+    "roomType": "EXECUTIVE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "29",
+    "roomPrice": 76375,
+    "roomType": "EXECUTIVE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "30",
+    "roomPrice": 76375,
+    "roomType": "EXECUTIVE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "31",
+    "roomPrice": 76375,
+    "roomType": "EXECUTIVE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "32",
+    "roomPrice": 76375,
+    "roomType": "EXECUTIVE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "33",
+    "roomPrice": 76375,
+    "roomType": "EXECUTIVE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "34",
+    "roomPrice": 76375,
+    "roomType": "EXECUTIVE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "35",
+    "roomPrice": 76375,
+    "roomType": "EXECUTIVE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "36",
+    "roomPrice": 76375,
+    "roomType": "EXECUTIVE",
+    "reservationIds": []
+  },
+
+
+  {
+    "roomNumber": "37",
+    "roomPrice": 79900,
+    "roomType": "SUPER DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "38",
+    "roomPrice": 79900,
+    "roomType": "SUPER DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "39",
+    "roomPrice": 79900,
+    "roomType": "SUPER DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "40",
+    "roomPrice": 79900,
+    "roomType": "SUPER DELUXE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "41",
+    "roomPrice": 79900,
+    "roomType": "SUPER DELUXE",
+    "reservationIds": []
+  },
+
+
+
+
+  {
+    "roomNumber": "42",
+    "roomPrice": 103400,
+    "roomType": "PENTHOUSE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "43",
+    "roomPrice": 103400,
+    "roomType": "PENTHOUSE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "44",
+    "roomPrice": 103400,
+    "roomType": "PENTHOUSE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "45",
+    "roomPrice": 103400,
+    "roomType": "PENTHOUSE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "46",
+    "roomPrice": 103400,
+    "roomType": "PENTHOUSE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "47",
+    "roomPrice": 103400,
+    "roomType": "PENTHOUSE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "48",
+    "roomPrice": 103400,
+    "roomType": "PENTHOUSE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "49",
+    "roomPrice": 103400,
+    "roomType": "PENTHOUSE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "50",
+    "roomPrice": 103400,
+    "roomType": "PENTHOUSE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "51",
+    "roomPrice": 103400,
+    "roomType": "PENTHOUSE",
+    "reservationIds": []
+  },
+
+
+
+  {
+    "roomNumber": "52",
+    "roomPrice": 119850,
+    "roomType": "CONTINENTAL SUITE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "53",
+    "roomPrice": 119850,
+    "roomType": "CONTINENTAL SUITE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "54",
+    "roomPrice": 119850,
+    "roomType": "CONTINENTAL SUITE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "55",
+    "roomPrice": 119850,
+    "roomType": "CONTINENTAL SUITE",
+    "reservationIds": []
+  },
+
+
+
+
+  {
+    "roomNumber": "56",
+    "roomPrice": 125725,
+    "roomType": "BUSINESS SUITE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "57",
+    "roomPrice": 125725,
+    "roomType": "BUSINESS SUITE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "58",
+    "roomPrice": 125725,
+    "roomType": "BUSINESS SUITE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "59",
+    "roomPrice": 125725,
+    "roomType": "BUSINESS SUITE",
+    "reservationIds": []
+  },
+  {
+    "roomNumber": "60",
+    "roomPrice": 125725,
+    "roomType": "BUSINESS SUITE",
+    "reservationIds": []
+  }
+ ]

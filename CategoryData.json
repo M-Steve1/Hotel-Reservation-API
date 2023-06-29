@@ -1,0 +1,88 @@
+[
+  {
+    "roomType": "STUDIO",
+    "price": 52875,
+    "urls": [
+      "/src/assets/studio-images/studio-preview.jpg",
+      "/src/assets/studio-images/studio1.jpg",
+      "/src/assets/studio-images/studio2.jpg",
+      "/src/assets/studio-images/studio3.jpg",
+      "/src/assets/studio-images/studio4.jpg"
+    ]
+  },
+  {
+    "roomType": "STANDARD",
+    "price": 59925,
+    "urls": [
+      "/src/assets/standard-images/standard-preview.jpg",
+      "/src/assets/standard-images/standard1.jpg",
+      "/src/assets/standard-images/standard2.jpg"
+    ]
+  },
+  {
+    "roomType": "DELUXE",
+    "price": 74025,
+    "urls": [
+      "/src/assets/deluxe-images/deluxe-preview.jpg",
+      "/src/assets/deluxe-images/deluxe1.jpg",
+      "/src/assets/deluxe-images/deluxe2.jpg",
+      "/src/assets/deluxe-images/deluxe3.jpg",
+      "/src/assets/deluxe-images/deluxe4.jpg"
+    ]
+  },
+  {
+    "roomType": "EXECUTIVE",
+    "price": 76375,
+    "urls": [
+      "/src/assets/executive-images/executive-preview.jpg",
+      "/src/assets/executive-images/executive1.jpg",
+      "/src/assets/executive-images/executive2.jpg",
+      "/src/assets/executive-images/executive3.jpg",
+      "/src/assets/executive-images/executive4.jpg"
+    ]
+  },
+  {
+    "roomType": "SUPER DELUXE",
+    "price": 79900,
+    "urls": [
+      "/src/assets/super-deluxe-images/super-deluxe-preview.jpg",
+      "/src/assets/super-deluxe-images/super-deluxe1.jpg",
+      "/src/assets/super-deluxe-images/super-deluxe2.jpg",
+      "/src/assets/super-deluxe-images/super-deluxe3.jpg",
+      "/src/assets/super-deluxe-images/super-deluxe4.jpg"
+    ]
+  },
+  {
+    "roomType": "PENTHOUSE",
+    "price": 103400,
+    "urls": [
+      "/src/assets/penthouse-images/penthouse-preview.jpg",
+      "/src/assets/penthouse-images/penthouse1.jpg",
+      "/src/assets/penthouse-images/penthouse2.jpg",
+      "/src/assets/penthouse-images/penthouse3.jpg"
+    ]
+  },
+  {
+    "roomType": "CONTINENTAL SUITE",
+    "price": 119850,
+    "urls": [
+      "/src/assets/continental-suite-images/continental-suite1.jpg",
+      "/src/assets/continental-suite-images/continental-suite2.jpg",
+      "/src/assets/continental-suite-images/continental-suite3.jpg",
+      "/src/assets/continental-suite-images/continental-suite4.jpg",
+      "/src/assets/continental-suite-images/continental-suite5.jpg",
+      "/src/assets/continental-suite-images/continental-suite6.jpg"
+    ]
+  },
+  {
+    "roomType": "BUSINESS SUITE",
+    "price": 125725,
+    "urls": [
+      "/src/assets/business-suite-images/business-suite1.jpg",
+      "/src/assets/business-suite-images/business-suite2.jpg",
+      "/src/assets/business-suite-images/business-suite3.jpg",
+      "/src/assets/business-suite-images/business-suite4.jpg",
+      "/src/assets/business-suite-images/business-suite5.jpg"
+    ]
+  }
+]
