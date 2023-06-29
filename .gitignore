@@ -38,5 +38,4 @@ build/
 ### Config Files ###
 config.properties
 
-roomData.json
-categoryData.json
+*.json
