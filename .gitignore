@@ -38,6 +38,5 @@ build/
 ### Config Files ###
 config.properties
 
-### Data ###
 roomData.json
-categoryDate.json
+categoryData.json
