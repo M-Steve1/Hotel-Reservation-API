@@ -12,7 +12,7 @@ import java.util.Optional;
 /**
  * Controller class, this class contains all "Reservation" api.
  */
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://stephenhotel.vercel.app")
 @RestController
 @RequestMapping("/api/v1/reservation")
 public class ReservationController {

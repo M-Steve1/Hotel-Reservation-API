@@ -11,7 +11,7 @@ import java.util.List;
  * Controller class, this class contains all "Category" api.
  */
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://stephenhotel.vercel.app")
 @RestController
 @RequestMapping("/api/v1/category")
 public class CategoryController {

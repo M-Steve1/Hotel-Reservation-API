@@ -11,6 +11,7 @@ import java.util.Map;
 /**
  * Controller class, this class contains all "Customer" api.
  */
+@CrossOrigin(origins = "https://stephenhotel.vercel.app")
 @RestController
 @RequestMapping("/api/v1/customer")
 public class CustomerController {
