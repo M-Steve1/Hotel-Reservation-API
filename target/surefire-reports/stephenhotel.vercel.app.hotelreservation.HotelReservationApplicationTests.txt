@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: stephenhotel.vercel.app.hotelreservation.HotelReservationApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.084 s - in stephenhotel.vercel.app.hotelreservation.HotelReservationApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.797 s - in stephenhotel.vercel.app.hotelreservation.HotelReservationApplicationTests
