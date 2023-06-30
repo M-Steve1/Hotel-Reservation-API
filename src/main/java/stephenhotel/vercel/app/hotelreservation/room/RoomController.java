@@ -11,7 +11,7 @@ import java.util.*;
  * Controller class, this class contains all "Room" api.
  */
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://stephenhotel.vercel.app")
 @RestController
 @RequestMapping("/api/v1/room")
 public class RoomController {
